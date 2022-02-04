@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+Array [
+  <h1
+    data-testid="credits"
+  >
+    Credits: $
+    5.00
+  </h1>,
+  <div
+    className="sc-bdvvtL"
+  >
+    <form>
+      <label>
+        Input coin:
+        <input
+          data-testid="credit"
+          onChange={[Function]}
+          type="text"
+        />
+      </label>
+      <button
+        data-testid="addCredit"
+        onClick={[Function]}
+      >
+        Drop
+      </button>
+    </form>
+  </div>,
+]
+`;

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+Array [
+  <h1>
+     Brisbane's Chocolate Factory
+  </h1>,
+  <div>
+    Allowed amounts: 10c, 20c, 50c, $1, $2
+  </div>,
+]
+`;

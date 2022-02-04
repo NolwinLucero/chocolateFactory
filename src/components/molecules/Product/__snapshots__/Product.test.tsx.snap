@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  className="sc-bdvvtL bbdKiI"
+>
+  <div>
+    Caramel
+  </div>
+  <img
+    alt="Caramel"
+    src="https://www.tasteofhome.com/wp-content/uploads/2018/01/Gooey-Chocolate-Caramel-Bars_EXPS_CMZ18_10572_D10_26_5b-1.jpg?fit=200,200"
+  />
+  <div>
+    Stock: 
+    3
+  </div>
+  <div>
+    $3.10
+  </div>
+  <button
+    data-testid="1"
+    disabled={false}
+    id="1"
+    onClick={[Function]}
+  >
+    Buy
+  </button>
+</div>
+`;
